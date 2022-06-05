@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_blog_fb=self.webpackChunkmy_blog_fb||[]).push([[4861],{3e3:function(l){l.exports=JSON.parse('{"label":"hello","permalink":"/fb-blog/blog/tags/hello","allTagsPath":"/fb-blog/blog/tags","count":2}')}}]);
